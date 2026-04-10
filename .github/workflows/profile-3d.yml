@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 北京时间凌晨 2 点更新
+    - cron: "0 16 * * *" # 北京时间凌晨 2 点更新
   workflow_dispatch:
 
 permissions:
